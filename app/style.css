@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(l.avif);
+    background-size: 2000px 1000px ;
+}
+
+button {
+    height: 30px;
+    width: 100px;
+    border: 3px double rgb(255, 255, 255);
+    border-radius: 15px;
+    background: none;
+    font-size: larger;
+    font-weight: bolder;
+    cursor: pointer;
+    color: rgb(10, 10, 10);
+    transition: 0.3s ease;
+}
+
+button:hover {
+    color: #0c0c0c;
+    background: rgb(190, 253, 245);
+}
+
+input {
+    border: 3px double rgb(255, 255, 255);
+    border-radius: 15px;
+    font-size: larger;
+    
+
+
+}
+h1{
+    font-size: 40px;
+    color: black;
+}
+
+h2{
+    font-size: 20px;
+    color: rgb(3, 3, 3);
+}
+ul{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+   
+}
+
